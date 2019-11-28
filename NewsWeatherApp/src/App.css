@@ -1,0 +1,95 @@
+
+.App{
+  min-height: 100vh;
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+.search-form{
+  min-height: 10vh;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.search-selection{
+  width: 20%;
+  border: none;
+  padding: 10px;
+}
+.search-button{
+  background: lightblue;
+  border: none;
+  padding: 10px 20px;
+  color:white;
+}
+.update-button{
+  background: lightblue;
+  border: none;
+  padding: 10px 20px;
+  color:white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.MyNews{
+  min-height: 100vh;
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+.EditNews{
+  min-height: 100vh;
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+.edit-form {
+ margin: 20px;
+}
+
+.title-name{
+  color:White;
+  text-align: center;
+  width:500px;
+  margin: auto;
+  border: 3px solid #FFFFFF;
+}
+
+.Weather{
+  min-height: 100vh;
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+.weather-title{
+  margin: 30px;
+  text-align: center;
+}
+
+.display-weather{
+  text-align: center;
+}
+
+.display-container{
+  width:500px;
+  margin: auto;
+  border: 3px solid #FFFFFF;
+}
